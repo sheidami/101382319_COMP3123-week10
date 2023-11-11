@@ -1,0 +1,62 @@
+.header {
+    text-align: center;
+    padding: 1%;
+    margin: 1%;
+    
+}
+
+input{
+  border-radius: 5px;
+
+}
+  
+.full {
+    width: 83%;
+    padding: 1%;
+    margin: 1%;
+}
+  
+.half {
+    width: 39.5%;
+    padding: 1%;
+    margin: 1%;
+}
+  
+.oneThird {
+    width: 25.5%;
+    padding: 1%;
+    margin: 1%;
+}
+  
+button {
+    background-color: #4CAF50;
+    color: white;
+    width: 10%;
+    padding: 1%;
+    margin: 1%;
+    border-radius: 5px;
+}
+  
+button:hover {
+    background-color: #45a049;
+    
+}
+
+.submitted-data {
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px solid #45a049;
+  padding: 7px; 
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-bottom: 20px;
+  border-radius: 10px;
+ 
+}
+
+
+.submitted-data p {
+  margin: 5px 0;
+  
+}
+  
